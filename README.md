@@ -1,4 +1,4 @@
-# RDP-Bug-Fixer for Audio and Clipboard
+# RDP Bug Fixer for Audio and Clipboard
 This app is a life saver for Microsoft Remote Desktop users. 
 This app can fix the Top 2 most annoying bugs:
 "The audio mute(no sound) bug" and "The Clipboard(Ctrl+C, Command+C) disable bug".
