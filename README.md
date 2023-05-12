@@ -14,14 +14,14 @@ This app can fix the Top 2 most annoying bugs:
 
 ---
 
-# How it works?
+# What is this?
 
-The idea itself is really simple. There are just two buttons:
-
-
-■ The "Reboot WindowAudio" button will reboot the RDP audio system.
-
-■ The "Reboot Remote Clipboard" button will reboot the RDP clipboard system.
+The idea is really simple. There are just two buttons:
 
 
-Both can fix the annoying issues without rebooting!
+■ The "Reboot WindowAudio" button will fix the RDP audio system.
+
+■ The "Reboot Remote Clipboard" button will fix the RDP clipboard system.
+
+
+Both can fix the annoying issues without RDP or Windows rebooting!
