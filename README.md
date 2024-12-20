@@ -13,6 +13,11 @@ So...! This app can fix the Top 2 most annoying bugs:
 
 ```"The audio mute(no sound) bug"``` and ```"The Clipboard(Ctrl+C or Command+C) disable bug"```.
 
+---
+# How to use?
+
+Install this app on your Windows machine.
+Whenever you encounter audio death or clipboard death, just press the button and it can fix the issue within a second!
 
 ---
 
